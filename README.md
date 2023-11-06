@@ -8,3 +8,7 @@
 - Create a line plot and a scatter plot.
 - Calculate correlation and regression.
 - Submit your final analysis.
+
+## Location & Source Code
+- pymaceuticals.ipynb can be found ----> pymaceuticals/pymaceuticals.ipynb
+- Source Code was learnt through curriculum, along with the help of Pandas & matplotlib documentation.
